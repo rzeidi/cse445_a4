@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xmlns="https://rzeidi.github.io/cse445_a4/NationalParks"
+				xsi:schemaLocation="https://rzeidi.github.io/cse445_a4/NationalParks https://rzeidi.github.io/cse445_a4/NationalParks.xsd">
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7888</Phone>
+    <Phone>928-638-7779</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Acadia National Park</Name>
+    <Phone>207-288-3338</Phone>
+    <Phone>207-288-8800</Phone>
+    <Address NearestAirport="Trenton">
+      <Number>25</Number>
+      <Street>Visitor Center Road</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Big Bend</Name>
+    <Phone>432-477-2251</Phone>
+    <Address NearestAirport="Alpine">
+      <Number>1</Number>
+      <Street>Panther Junction</Street>
+      <City>Big Bend National Park</City>
+      <State>TX</State>
+      <Zip>79834</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.7">
+    <Name>Biscayne</Name>
+    <Phone>786-335-3620</Phone>
+    <Address NearestAirport="Miami">
+      <Number>9700</Number>
+      <Street>SW 328th Street</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33033</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3399</Phone>
+    <Address NearestAirport="Jackson">
+      <Number>103</Number>
+      <Street>Headquarters Loop</Street>
+      <City>Moose</City>
+      <State>WY </State>
+      <Zip>83012</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Cuyahoga Valley</Name>
+    <Phone>440-717-3890</Phone>
+    <Phone>440-546-5945</Phone>
+    <Address NearestAirport="Cleveland">
+      <Number>6947</Number>
+      <Street>Riverview Road</Street>
+      <City>Peninsula</City>
+      <State>OH</State>
+      <Zip>44264</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Katmai</Name>
+    <Phone>907-246-3305</Phone>
+    <Address NearestAirport="King Salmon">
+      <Number>1000 </Number>
+      <Street>Silver Street</Street>
+      <City>King Salmon</City>
+      <State>AK</State>
+      <Zip>99613</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Rocky Mountain</Name>
+    <Phone>970-586-1206</Phone>
+    <Address NearestAirport="Denver">
+      <Number>1000</Number>
+      <Street>US Hwy 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Shenandoah</Name>
+    <Phone>540-999-3500</Phone>
+    <Address NearestAirport="Charlottesville">
+      <Number>3655</Number>
+      <Street>U.S. Highway 211 East</Street>
+      <City>Luray</City>
+      <State>VA</State>
+      <Zip>22835</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="Bozeman">
+      <Number>2</Number>
+      <Street>Officers Row</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
