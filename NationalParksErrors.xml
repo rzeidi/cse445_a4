@@ -27,6 +27,7 @@
   </NationalPark>
   <NationalPark>
     <Name>Big Bend</Name>
+	<Name>Penguin</Name>
     <Phone>432-477-2251</Phone>
     <Address NearestAirport="Alpine">
       <Number>1</Number>
@@ -34,10 +35,10 @@
       <City>Big Bend National Park</City>
       <State>TX</State>
       <Zip>79834</Zip>
+	</Address>
   </NationalPark>
   <NationalPark Rating="4.7">
     <Name>Biscayne</Name>
-	<Name>Penguin</Name>
     <Phone>786-335-3620</Phone>
     <Address NearestAirport="Miami">
       <Number>9700</Number>
@@ -45,7 +46,6 @@
       <City>Homestead</City>
       <State>FL</State>
       <Zip>33033</Zip>
-    </Address>
   </NationalPark>
   <NationalPark>
     <Name>Grand Teton</Name>
