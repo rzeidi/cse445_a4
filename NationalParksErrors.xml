@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<NationalPark   xmlns="https://rzeidi.github.io/cse445_a4/NationalParks"
-				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xmlns="https://rzeidi.github.io/cse445_a4/NationalParks"
 				xsi:schemaLocation="https://rzeidi.github.io/cse445_a4/NationalParks https://rzeidi.github.io/cse445_a4/NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
-    <Name>Grand Canyon Error</Name>
     <Phone>928-638-7888</Phone>
     <Phone>928-638-7779</Phone>
     <Phone>866-499-2574</Phone>
-    <Address NearestAirport="FlagStaff">
+    <Address>
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
@@ -29,16 +28,16 @@
   <NationalPark>
     <Name>Big Bend</Name>
     <Phone>432-477-2251</Phone>
-    <Address>
+    <Address NearestAirport="Alpine">
       <Number>1</Number>
       <Street>Panther Junction</Street>
       <City>Big Bend National Park</City>
       <State>TX</State>
       <Zip>79834</Zip>
-    </Address>
   </NationalPark>
   <NationalPark Rating="4.7">
     <Name>Biscayne</Name>
+	<Name>Penguin</Name>
     <Phone>786-335-3620</Phone>
     <Address NearestAirport="Miami">
       <Number>9700</Number>
@@ -115,4 +114,4 @@
       <Zip>82190</Zip>
     </Address>
   </NationalPark>
-</NationalPark>
+</NationalParks>
